@@ -1,1 +1,1 @@
-# SBRS-Survey
+# This reposotory provide the collection of represenattive open-source algorithms and public datasets for evaluating session-based recommender systems. It is associated with our comprehensive survey paper "A Survey on Session based Recommender Systems" published at ACM Computing Surveys.  
